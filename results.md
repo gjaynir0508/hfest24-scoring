@@ -24,6 +24,10 @@
 
 `[186, 50, 67, 97, 15, 177, 117, 171, 103, 95, 182, 147, 137, 110, 77, 123, 163, 166, 122, 135, 145]`
 
+## 7. Adjusting Scores (using (population mean - sample mean) / population sd) wise ranking
+
+`[186, 50, 67, 97, 177, 103, 15, 117, 171, 147, 95, 182, 137, 110, 77, 123, 163, 166, 122, 135, 145]`
+
 ## Team Scores for reference
 
 <div>
